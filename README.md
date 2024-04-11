@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CaseyNielsen
+- 👋 Hi, I’m Casey!
 - 👀 I’m interested in software engineering and problem solving.
 - 🌱 I’m currently learning python!
 - 💞️ I’m looking to collaborate on volunteer projects.
